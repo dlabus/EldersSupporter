@@ -1,2 +1,2 @@
-phone_number,language,voice_id,first_message,prompt,callee_name,todays_events,tomorrows_event,
-+48883568587,pl,,,,Dominik,[{date: "2025-07-22 12:00", "event": "Joga"}, {date: "2025-07-23 17:00", "event": "Wizyta u lekarza"}], []
+phone_number,callee_name,todays_events,tomorrows_event,
++48883568587,Dominik,[{date: "2025-07-22 12:00", "event": "Joga"}, {date: "2025-07-23 17:00", "event": "Wizyta u lekarza"}]", "[]"
